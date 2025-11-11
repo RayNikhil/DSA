@@ -1,0 +1,24 @@
+class Solution {
+    public int minimumAverageDifference(int[] nums) {
+        int n = nums.length;
+        long totalSum = 0;
+        for (int num : nums) totalSum += num;
+
+        long prefixSum = 0;
+        int ansIndex = 0;
+        long minDiff = Long.MAX_VALUE;
+
+        for (int i = 0; i < n; i++) {
+            prefixSum += nums[i];
+            long leftAvg = prefixSum / (i + 1);
+            long rightAvg = (i == n - 1) ? 0 : (totalSum - prefixSum) / (n - i - 1);
+
+            long diff = Math.abs(leftAvg - rightAvg);
+            if (diff < minDiff) {
+                minDiff = diff;
+                ansIndex = i;
+            }
+        }
+        return ansIndex;
+    }
+}
