@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RayNikhil/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/RayNikhil/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/RayNikhil/DSA/tree/master/0011-container-with-most-water) |
+| [2342-minimum-average-difference](https://github.com/RayNikhil/DSA/tree/master/2342-minimum-average-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RayNikhil/DSA/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [2342-minimum-average-difference](https://github.com/RayNikhil/DSA/tree/master/2342-minimum-average-difference) |
 <!---LeetCode Topics End-->
