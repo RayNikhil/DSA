@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RayNikhil/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/RayNikhil/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RayNikhil/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/RayNikhil/DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/RayNikhil/DSA/tree/master/0064-minimum-path-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RayNikhil/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0260-single-number-iii](https://github.com/RayNikhil/DSA/tree/master/0260-single-number-iii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/RayNikhil/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/RayNikhil/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RayNikhil/DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/RayNikhil/DSA/tree/master/0064-minimum-path-sum) |
 ## Bit Manipulation
 |  |
@@ -137,5 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/RayNikhil/DSA/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/RayNikhil/DSA/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/RayNikhil/DSA/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
