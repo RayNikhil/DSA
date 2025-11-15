@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/RayNikhil/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RayNikhil/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/RayNikhil/DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/RayNikhil/DSA/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RayNikhil/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/RayNikhil/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RayNikhil/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/RayNikhil/DSA/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,5 +128,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/RayNikhil/DSA/tree/master/0043-multiply-strings) |
 | [2058-concatenation-of-array](https://github.com/RayNikhil/DSA/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
