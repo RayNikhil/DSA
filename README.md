@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RayNikhil/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/RayNikhil/DSA/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/RayNikhil/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/RayNikhil/DSA/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RayNikhil/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/RayNikhil/DSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/RayNikhil/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/RayNikhil/DSA/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/RayNikhil/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/RayNikhil/DSA/tree/master/0067-add-binary) |
 | [0260-single-number-iii](https://github.com/RayNikhil/DSA/tree/master/0260-single-number-iii) |
 ## Simulation
 |  |
@@ -153,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/RayNikhil/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/RayNikhil/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RayNikhil/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/RayNikhil/DSA/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/RayNikhil/DSA/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
