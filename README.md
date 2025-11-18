@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RayNikhil/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RayNikhil/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RayNikhil/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0239-sliding-window-maximum](https://github.com/RayNikhil/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/RayNikhil/DSA/tree/master/0260-single-number-iii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RayNikhil/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0932-monotonic-array](https://github.com/RayNikhil/DSA/tree/master/0932-monotonic-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RayNikhil/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/RayNikhil/DSA/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,4 +178,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/RayNikhil/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/RayNikhil/DSA/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/RayNikhil/DSA/tree/master/2058-concatenation-of-array) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RayNikhil/DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RayNikhil/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RayNikhil/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
