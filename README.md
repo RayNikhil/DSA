@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RayNikhil/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RayNikhil/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RayNikhil/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/RayNikhil/DSA/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/RayNikhil/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/RayNikhil/DSA/tree/master/0260-single-number-iii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RayNikhil/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RayNikhil/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RayNikhil/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RayNikhil/DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/RayNikhil/DSA/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RayNikhil/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RayNikhil/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RayNikhil/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/RayNikhil/DSA/tree/master/0189-rotate-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/RayNikhil/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
