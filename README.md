@@ -75,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RayNikhil/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RayNikhil/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RayNikhil/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/RayNikhil/DSA/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RayNikhil/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/RayNikhil/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/RayNikhil/DSA/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/RayNikhil/DSA/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RayNikhil/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RayNikhil/DSA/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/RayNikhil/DSA/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/RayNikhil/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/RayNikhil/DSA/tree/master/0260-single-number-iii) |
 ## Simulation
 |  |
