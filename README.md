@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RayNikhil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2342-minimum-average-difference](https://github.com/RayNikhil/DSA/tree/master/2342-minimum-average-difference) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RayNikhil/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [4008-restore-finishing-order](https://github.com/RayNikhil/DSA/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RayNikhil/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RayNikhil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RayNikhil/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [4008-restore-finishing-order](https://github.com/RayNikhil/DSA/tree/master/4008-restore-finishing-order) |
 ## Linked List
 |  |
 | ------- |
