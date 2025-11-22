@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/RayNikhil/DSA/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/RayNikhil/DSA/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/RayNikhil/DSA/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/RayNikhil/DSA/tree/master/0507-perfect-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RayNikhil/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
