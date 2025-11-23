@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/RayNikhil/DSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RayNikhil/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/RayNikhil/DSA/tree/master/0724-find-pivot-index) |
+| [0757-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0932-monotonic-array](https://github.com/RayNikhil/DSA/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/RayNikhil/DSA/tree/master/0948-sort-an-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RayNikhil/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/RayNikhil/DSA/tree/master/0055-jump-game) |
+| [0757-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 ## Prefix Sum
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RayNikhil/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RayNikhil/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RayNikhil/DSA/tree/master/0242-valid-anagram) |
+| [0757-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0948-sort-an-array](https://github.com/RayNikhil/DSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/RayNikhil/DSA/tree/master/1019-squares-of-a-sorted-array) |
