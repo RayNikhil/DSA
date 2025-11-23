@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/RayNikhil/DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/RayNikhil/DSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RayNikhil/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/RayNikhil/DSA/tree/master/0724-find-pivot-index) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0932-monotonic-array](https://github.com/RayNikhil/DSA/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/RayNikhil/DSA/tree/master/0948-sort-an-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/RayNikhil/DSA/tree/master/0724-find-pivot-index) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RayNikhil/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2342-minimum-average-difference](https://github.com/RayNikhil/DSA/tree/master/2342-minimum-average-difference) |
 ## Sorting
