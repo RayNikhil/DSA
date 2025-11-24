@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RayNikhil/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/RayNikhil/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RayNikhil/DSA/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1480-running-sum-of-1d-array](https://github.com/RayNikhil/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RayNikhil/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2058-concatenation-of-array](https://github.com/RayNikhil/DSA/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RayNikhil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/RayNikhil/DSA/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/RayNikhil/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RayNikhil/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2342-minimum-average-difference](https://github.com/RayNikhil/DSA/tree/master/2342-minimum-average-difference) |
 ## Sorting
