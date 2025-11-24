@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/RayNikhil/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/RayNikhil/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/RayNikhil/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RayNikhil/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RayNikhil/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2058-concatenation-of-array](https://github.com/RayNikhil/DSA/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RayNikhil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
