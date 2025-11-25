@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/RayNikhil/DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/RayNikhil/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0697-degree-of-an-array](https://github.com/RayNikhil/DSA/tree/master/0697-degree-of-an-array) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RayNikhil/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RayNikhil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RayNikhil/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/RayNikhil/DSA/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/RayNikhil/DSA/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/RayNikhil/DSA/tree/master/0507-perfect-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/RayNikhil/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RayNikhil/DSA/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RayNikhil/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
