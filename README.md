@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/RayNikhil/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/RayNikhil/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/RayNikhil/DSA/tree/master/0283-move-zeroes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RayNikhil/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/RayNikhil/DSA/tree/master/0485-max-consecutive-ones) |
 | [0697-degree-of-an-array](https://github.com/RayNikhil/DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/RayNikhil/DSA/tree/master/0704-binary-search) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/RayNikhil/DSA/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/RayNikhil/DSA/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/RayNikhil/DSA/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RayNikhil/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/RayNikhil/DSA/tree/master/0507-perfect-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/RayNikhil/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RayNikhil/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RayNikhil/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RayNikhil/DSA/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RayNikhil/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0757-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0948-sort-an-array](https://github.com/RayNikhil/DSA/tree/master/0948-sort-an-array) |
