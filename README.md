@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-minimum-average-difference](https://github.com/RayNikhil/DSA/tree/master/2342-minimum-average-difference) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RayNikhil/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RayNikhil/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/RayNikhil/DSA/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RayNikhil/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RayNikhil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RayNikhil/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/RayNikhil/DSA/tree/master/4008-restore-finishing-order) |
 ## Linked List
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/RayNikhil/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RayNikhil/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2342-minimum-average-difference](https://github.com/RayNikhil/DSA/tree/master/2342-minimum-average-difference) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
