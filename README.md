@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RayNikhil/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RayNikhil/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/RayNikhil/DSA/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/RayNikhil/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/RayNikhil/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RayNikhil/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RayNikhil/DSA/tree/master/0069-sqrtx) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RayNikhil/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RayNikhil/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RayNikhil/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/RayNikhil/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/RayNikhil/DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/RayNikhil/DSA/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/RayNikhil/DSA/tree/master/0120-triangle) |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/RayNikhil/DSA/tree/master/0039-combination-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RayNikhil/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
