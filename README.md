@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RayNikhil/DSA/tree/master/0283-move-zeroes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RayNikhil/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/RayNikhil/DSA/tree/master/0485-max-consecutive-ones) |
+| [0611-valid-triangle-number](https://github.com/RayNikhil/DSA/tree/master/0611-valid-triangle-number) |
 | [0697-degree-of-an-array](https://github.com/RayNikhil/DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/RayNikhil/DSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RayNikhil/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RayNikhil/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/RayNikhil/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RayNikhil/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/RayNikhil/DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/RayNikhil/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RayNikhil/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RayNikhil/DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/RayNikhil/DSA/tree/master/0541-reverse-string-ii) |
+| [0611-valid-triangle-number](https://github.com/RayNikhil/DSA/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/RayNikhil/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/RayNikhil/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RayNikhil/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RayNikhil/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/RayNikhil/DSA/tree/master/0055-jump-game) |
+| [0611-valid-triangle-number](https://github.com/RayNikhil/DSA/tree/master/0611-valid-triangle-number) |
 | [0757-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 ## Prefix Sum
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RayNikhil/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RayNikhil/DSA/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RayNikhil/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0611-valid-triangle-number](https://github.com/RayNikhil/DSA/tree/master/0611-valid-triangle-number) |
 | [0757-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0948-sort-an-array](https://github.com/RayNikhil/DSA/tree/master/0948-sort-an-array) |
