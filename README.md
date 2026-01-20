@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RayNikhil/DSA/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/RayNikhil/DSA/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/RayNikhil/DSA/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RayNikhil/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/RayNikhil/DSA/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/RayNikhil/DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/RayNikhil/DSA/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RayNikhil/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RayNikhil/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RayNikhil/DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/RayNikhil/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RayNikhil/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RayNikhil/DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/RayNikhil/DSA/tree/master/0541-reverse-string-ii) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RayNikhil/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RayNikhil/DSA/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/RayNikhil/DSA/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
