@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RayNikhil/DSA/tree/master/0283-move-zeroes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RayNikhil/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/RayNikhil/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/RayNikhil/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/RayNikhil/DSA/tree/master/0611-valid-triangle-number) |
 | [0697-degree-of-an-array](https://github.com/RayNikhil/DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/RayNikhil/DSA/tree/master/0704-binary-search) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RayNikhil/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RayNikhil/DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/RayNikhil/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/RayNikhil/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/RayNikhil/DSA/tree/master/0697-degree-of-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/RayNikhil/DSA/tree/master/1590-make-sum-divisible-by-p) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/RayNikhil/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RayNikhil/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/RayNikhil/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/RayNikhil/DSA/tree/master/1590-make-sum-divisible-by-p) |
