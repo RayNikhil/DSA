@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/RayNikhil/DSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RayNikhil/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/RayNikhil/DSA/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/RayNikhil/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0757-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0885-spiral-matrix-iii](https://github.com/RayNikhil/DSA/tree/master/0885-spiral-matrix-iii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RayNikhil/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/RayNikhil/DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/RayNikhil/DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/RayNikhil/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
