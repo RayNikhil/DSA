@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RayNikhil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2342-minimum-average-difference](https://github.com/RayNikhil/DSA/tree/master/2342-minimum-average-difference) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RayNikhil/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RayNikhil/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RayNikhil/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RayNikhil/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/RayNikhil/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RayNikhil/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RayNikhil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RayNikhil/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Stack
 |  |
 | ------- |
@@ -389,4 +391,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/RayNikhil/DSA/tree/master/1925-count-square-sum-triples) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RayNikhil/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
