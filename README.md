@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RayNikhil/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RayNikhil/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RayNikhil/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3379-transformed-array](https://github.com/RayNikhil/DSA/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RayNikhil/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/RayNikhil/DSA/tree/master/2058-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RayNikhil/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RayNikhil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3379-transformed-array](https://github.com/RayNikhil/DSA/tree/master/3379-transformed-array) |
 ## Queue
 |  |
 | ------- |
