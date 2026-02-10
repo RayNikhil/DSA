@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RayNikhil/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/RayNikhil/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [4008-restore-finishing-order](https://github.com/RayNikhil/DSA/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RayNikhil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RayNikhil/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/RayNikhil/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [4008-restore-finishing-order](https://github.com/RayNikhil/DSA/tree/master/4008-restore-finishing-order) |
 ## Linked List
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RayNikhil/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/RayNikhil/DSA/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/RayNikhil/DSA/tree/master/0948-sort-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/RayNikhil/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-minimum-average-difference](https://github.com/RayNikhil/DSA/tree/master/2342-minimum-average-difference) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RayNikhil/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/RayNikhil/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -403,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/RayNikhil/DSA/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RayNikhil/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/RayNikhil/DSA/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
