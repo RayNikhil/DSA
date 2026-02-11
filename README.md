@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/RayNikhil/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RayNikhil/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/RayNikhil/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RayNikhil/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/RayNikhil/DSA/tree/master/2058-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RayNikhil/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RayNikhil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RayNikhil/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/RayNikhil/DSA/tree/master/0239-sliding-window-maximum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RayNikhil/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/RayNikhil/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/RayNikhil/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RayNikhil/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RayNikhil/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RayNikhil/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RayNikhil/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Stack
