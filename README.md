@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RayNikhil/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RayNikhil/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/RayNikhil/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/RayNikhil/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/RayNikhil/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RayNikhil/DSA/tree/master/0234-palindrome-linked-list) |
 ## Math
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/RayNikhil/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/RayNikhil/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/RayNikhil/DSA/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/RayNikhil/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/RayNikhil/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RayNikhil/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RayNikhil/DSA/tree/master/0234-palindrome-linked-list) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RayNikhil/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RayNikhil/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RayNikhil/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/RayNikhil/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RayNikhil/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RayNikhil/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/RayNikhil/DSA/tree/master/0234-palindrome-linked-list) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RayNikhil/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RayNikhil/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RayNikhil/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/RayNikhil/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RayNikhil/DSA/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
