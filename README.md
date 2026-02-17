@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/RayNikhil/DSA/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RayNikhil/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/RayNikhil/DSA/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/RayNikhil/DSA/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/RayNikhil/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RayNikhil/DSA/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/RayNikhil/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RayNikhil/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RayNikhil/DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/RayNikhil/DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/RayNikhil/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RayNikhil/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/RayNikhil/DSA/tree/master/0279-perfect-squares) |
+| [0509-fibonacci-number](https://github.com/RayNikhil/DSA/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/RayNikhil/DSA/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RayNikhil/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Greedy
@@ -430,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/RayNikhil/DSA/tree/master/2596-check-knight-tour-configuration) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RayNikhil/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
