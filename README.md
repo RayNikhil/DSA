@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/RayNikhil/DSA/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/RayNikhil/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/RayNikhil/DSA/tree/master/0260-single-number-iii) |
+| [0401-binary-watch](https://github.com/RayNikhil/DSA/tree/master/0401-binary-watch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/RayNikhil/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RayNikhil/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RayNikhil/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/RayNikhil/DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/RayNikhil/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RayNikhil/DSA/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/RayNikhil/DSA/tree/master/0401-binary-watch) |
 ## Combinatorics
 |  |
 | ------- |
