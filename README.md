@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/RayNikhil/DSA/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/RayNikhil/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/RayNikhil/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/RayNikhil/DSA/tree/master/0980-unique-paths-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/RayNikhil/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/RayNikhil/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RayNikhil/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RayNikhil/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RayNikhil/DSA/tree/master/0079-word-search) |
 | [0885-spiral-matrix-iii](https://github.com/RayNikhil/DSA/tree/master/0885-spiral-matrix-iii) |
+| [0980-unique-paths-iii](https://github.com/RayNikhil/DSA/tree/master/0980-unique-paths-iii) |
 | [2596-check-knight-tour-configuration](https://github.com/RayNikhil/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RayNikhil/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/RayNikhil/DSA/tree/master/0260-single-number-iii) |
 | [0401-binary-watch](https://github.com/RayNikhil/DSA/tree/master/0401-binary-watch) |
+| [0980-unique-paths-iii](https://github.com/RayNikhil/DSA/tree/master/0980-unique-paths-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/RayNikhil/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RayNikhil/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RayNikhil/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RayNikhil/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RayNikhil/DSA/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/RayNikhil/DSA/tree/master/0401-binary-watch) |
+| [0980-unique-paths-iii](https://github.com/RayNikhil/DSA/tree/master/0980-unique-paths-iii) |
 ## Combinatorics
 |  |
 | ------- |
