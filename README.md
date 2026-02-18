@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RayNikhil/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/RayNikhil/DSA/tree/master/0260-single-number-iii) |
 | [0401-binary-watch](https://github.com/RayNikhil/DSA/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/RayNikhil/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0980-unique-paths-iii](https://github.com/RayNikhil/DSA/tree/master/0980-unique-paths-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/RayNikhil/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RayNikhil/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
