@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/RayNikhil/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/RayNikhil/DSA/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/RayNikhil/DSA/tree/master/0541-reverse-string-ii) |
+| [0696-count-binary-substrings](https://github.com/RayNikhil/DSA/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/RayNikhil/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/RayNikhil/DSA/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/RayNikhil/DSA/tree/master/1143-longest-common-subsequence) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RayNikhil/DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/RayNikhil/DSA/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/RayNikhil/DSA/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/RayNikhil/DSA/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/RayNikhil/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/RayNikhil/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RayNikhil/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
