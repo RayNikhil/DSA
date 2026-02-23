@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/RayNikhil/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RayNikhil/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RayNikhil/DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/RayNikhil/DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/RayNikhil/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/RayNikhil/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/RayNikhil/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/RayNikhil/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RayNikhil/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RayNikhil/DSA/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/RayNikhil/DSA/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/RayNikhil/DSA/tree/master/0401-binary-watch) |
 | [0980-unique-paths-iii](https://github.com/RayNikhil/DSA/tree/master/0980-unique-paths-iii) |
 ## Combinatorics
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/RayNikhil/DSA/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/RayNikhil/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RayNikhil/DSA/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RayNikhil/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/RayNikhil/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/RayNikhil/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Memoization
@@ -467,11 +470,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/RayNikhil/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RayNikhil/DSA/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RayNikhil/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/RayNikhil/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RayNikhil/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RayNikhil/DSA/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RayNikhil/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/RayNikhil/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
