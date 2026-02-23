@@ -453,9 +453,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RayNikhil/DSA/tree/master/0079-word-search) |
+| [0543-diameter-of-binary-tree](https://github.com/RayNikhil/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/RayNikhil/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/RayNikhil/DSA/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/RayNikhil/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/RayNikhil/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
