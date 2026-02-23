@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RayNikhil/DSA/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/RayNikhil/DSA/tree/master/0279-perfect-squares) |
 | [2596-check-knight-tour-configuration](https://github.com/RayNikhil/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Backtracking
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RayNikhil/DSA/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/RayNikhil/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RayNikhil/DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RayNikhil/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/RayNikhil/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -463,11 +465,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RayNikhil/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RayNikhil/DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RayNikhil/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RayNikhil/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/RayNikhil/DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RayNikhil/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
