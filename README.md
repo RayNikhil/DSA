@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/RayNikhil/DSA/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/RayNikhil/DSA/tree/master/1143-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RayNikhil/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RayNikhil/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RayNikhil/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sliding Window
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0757-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RayNikhil/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RayNikhil/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
