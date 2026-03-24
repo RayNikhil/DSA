@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-minimum-average-difference](https://github.com/RayNikhil/DSA/tree/master/2342-minimum-average-difference) |
 | [2596-check-knight-tour-configuration](https://github.com/RayNikhil/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RayNikhil/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2906-construct-product-matrix](https://github.com/RayNikhil/DSA/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RayNikhil/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RayNikhil/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3379-transformed-array](https://github.com/RayNikhil/DSA/tree/master/3379-transformed-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/RayNikhil/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RayNikhil/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2342-minimum-average-difference](https://github.com/RayNikhil/DSA/tree/master/2342-minimum-average-difference) |
+| [2906-construct-product-matrix](https://github.com/RayNikhil/DSA/tree/master/2906-construct-product-matrix) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RayNikhil/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/RayNikhil/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/RayNikhil/DSA/tree/master/0980-unique-paths-iii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RayNikhil/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/RayNikhil/DSA/tree/master/2596-check-knight-tour-configuration) |
+| [2906-construct-product-matrix](https://github.com/RayNikhil/DSA/tree/master/2906-construct-product-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RayNikhil/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
