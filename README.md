@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RayNikhil/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RayNikhil/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/RayNikhil/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1672-richest-customer-wealth](https://github.com/RayNikhil/DSA/tree/master/1672-richest-customer-wealth) |
 | [1980-find-unique-binary-string](https://github.com/RayNikhil/DSA/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RayNikhil/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/RayNikhil/DSA/tree/master/2058-concatenation-of-array) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/RayNikhil/DSA/tree/master/0885-spiral-matrix-iii) |
 | [0980-unique-paths-iii](https://github.com/RayNikhil/DSA/tree/master/0980-unique-paths-iii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RayNikhil/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1672-richest-customer-wealth](https://github.com/RayNikhil/DSA/tree/master/1672-richest-customer-wealth) |
 | [2596-check-knight-tour-configuration](https://github.com/RayNikhil/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2906-construct-product-matrix](https://github.com/RayNikhil/DSA/tree/master/2906-construct-product-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RayNikhil/DSA/tree/master/3643-flip-square-submatrix-vertically) |
