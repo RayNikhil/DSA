@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RayNikhil/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/RayNikhil/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1672-richest-customer-wealth](https://github.com/RayNikhil/DSA/tree/master/1672-richest-customer-wealth) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/RayNikhil/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/RayNikhil/DSA/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RayNikhil/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/RayNikhil/DSA/tree/master/2058-concatenation-of-array) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RayNikhil/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/RayNikhil/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RayNikhil/DSA/tree/master/0234-palindrome-linked-list) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/RayNikhil/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## String Matching
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RayNikhil/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RayNikhil/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/RayNikhil/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Matrix
 |  |
 | ------- |
