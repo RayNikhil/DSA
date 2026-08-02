@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/RayNikhil/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0757-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RayNikhil/DSA/tree/master/0759-set-intersection-size-at-least-two) |
+| [0877-stone-game](https://github.com/RayNikhil/DSA/tree/master/0877-stone-game) |
 | [0885-spiral-matrix-iii](https://github.com/RayNikhil/DSA/tree/master/0885-spiral-matrix-iii) |
 | [0896-monotonic-array](https://github.com/RayNikhil/DSA/tree/master/0896-monotonic-array) |
 | [0932-monotonic-array](https://github.com/RayNikhil/DSA/tree/master/0932-monotonic-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/RayNikhil/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/RayNikhil/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RayNikhil/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/RayNikhil/DSA/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/RayNikhil/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RayNikhil/DSA/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/RayNikhil/DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/RayNikhil/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/RayNikhil/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/RayNikhil/DSA/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/RayNikhil/DSA/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RayNikhil/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Greedy
@@ -570,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RayNikhil/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RayNikhil/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
