@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/RayNikhil/DSA/tree/master/0697-degree-of-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/RayNikhil/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/RayNikhil/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/RayNikhil/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RayNikhil/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/RayNikhil/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1980-find-unique-binary-string](https://github.com/RayNikhil/DSA/tree/master/1980-find-unique-binary-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/RayNikhil/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/RayNikhil/DSA/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/RayNikhil/DSA/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/RayNikhil/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RayNikhil/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RayNikhil/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RayNikhil/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RayNikhil/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/RayNikhil/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/RayNikhil/DSA/tree/master/0948-sort-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/RayNikhil/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/RayNikhil/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Breadth-First Search
 |  |
